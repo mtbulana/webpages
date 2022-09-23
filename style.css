@@ -7,15 +7,15 @@
  */
  
 body {
-    background-color: #353535;
+    background-color: #EFF6E0;
 	}
 
 .table-border {
-    border: 3px solid #284B63;
+    border: 3px solid #124559;
 	}
 	
 .img-border {
-	border: 2px outset #3C6E71;
+	border: 2px outset #AEC3B0;
 	}
 
 #photo-resize {
