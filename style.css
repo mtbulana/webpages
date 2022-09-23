@@ -14,11 +14,15 @@ body {
     border: 3px solid #598392;
 	}
 	
-.img-border {
+.img-format {
 	border: 2px outset #AEC3B0;
+	max-width: 200 px;
+    max-height: 250px;
 	}
-
+/**
 #photo-resize {
-    max-width: 200 px ;
-    max-height: 250px ;
+    max-width: 200 px;
+    max-height: 250px;
 	}
+*/
+
