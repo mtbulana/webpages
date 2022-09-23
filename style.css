@@ -6,15 +6,19 @@
  *Description: Independent Assignment 5 (HTML and Styling)
  */
  
-p {
-    property: value;
-}
+body {
+    background-color: #353535;
+	}
 
-.class {
-    property: value;
-}
+.table-border {
+    border: 3px solid #284B63;
+	}
+	
+.img-border {
+	border: 2px outset #3C6E71;
+	}
 
 #photo-resize {
-    max-width: 250 px ;
-    max-height: 300px ;
+    max-width: 200 px ;
+    max-height: 250px ;
 	}
