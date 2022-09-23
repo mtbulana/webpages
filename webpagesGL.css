@@ -9,13 +9,14 @@
 p {
     font-family:Times;
     font-size: 16px;
-    color:#;
+    color:#2F3E46;
 	}
 
 .table-border {
-    border: 1px solid ;
+    border: 1px solid #F2B5D4;
 	}
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250 px ;
+    max-height: 300px ;
 	}
